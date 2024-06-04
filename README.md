@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+I am Kipkoech Baron.
+I am currently learning software development at PLP Africa.
+I am undergratuate student pursuing mass communication at Kenyatta university.
+I am looking forward to collaborating in projects to hone my coding skills.
 <!--
 **RobertBaron22/RobertBaron22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
